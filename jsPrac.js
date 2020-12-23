@@ -65,7 +65,7 @@ console.log(newStudent.xp);// 2
 console.log(newStudent.height); 
 
 
-console.log("_______________________");
+console.log("_________________________");
 
 var dateFields = [1970, 0, 1];  // 1 Jan 1970
 var date = new Date(...dateFields);
